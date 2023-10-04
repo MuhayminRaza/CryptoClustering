@@ -11,3 +11,6 @@ This challenge required us to do the following major tasks:
 
 The following code was written with the help of a TA: 
 clusters_PCA = KMeans_model.predict(PCA_data_df)
+
+For the assignment, ASKBCS was used for questions and the following resources:
+https://stats.stackexchange.com/questions/235882/pca-in-numpy-and-sklearn-produces-different-results 
